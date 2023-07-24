@@ -5,6 +5,4 @@ To use the generator, you need Python 3.x, TensorFlow, Keras, NumPy, Pandas, and
 
 The model's performance can be evaluated using metrics such as BLEU, METEOR, and CIDEr scores, while qualitative assessment can be done by visually inspecting the generated captions.
 
-Contributions to the repository are welcome, and the project is licensed under the MIT License. Please comply with the terms and conditions of the Flickr dataset when using it for training or evaluation.
-
 Download Dataset - https://www.kaggle.com/datasets/adityajn105/flickr8k
